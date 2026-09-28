@@ -1,0 +1,1 @@
+This ZIP is a source/build scaffold, not a falsely labeled fixed IPA. The missing piece is the compiled Rust AirliftFFI unlink implementation.
